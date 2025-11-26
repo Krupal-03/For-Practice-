@@ -1,0 +1,9 @@
+System Monitor Export - Sat Nov 22 16:50:00 2025
+CPU Usage: 5.0%
+CPU Frequency: 2400.0 GHz
+CPU Temperature: 0.0°C
+RAM Usage: 57.6%
+GPU Usage: 0.0%
+GPU Frequency: 0 MHz
+GPU Memory: 0/0 MB
+Fan Speeds: [0] RPM
